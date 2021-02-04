@@ -19,7 +19,7 @@ while count != 100:
         responseBTC = requests.get("https://www.trbinance.com/trade/BTC_TRY").content
         responseETH = requests.get("https://www.trbinance.com/trade/ETH_TRY").content
     except:
-        print("No connection")
+        print("Bağlantı sorunu ")
         break
     
     soupBTC = BeautifulSoup(responseBTC, "html.parser")
