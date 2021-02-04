@@ -1,3 +1,3 @@
 # viewCoin
 
-###Bitcoin ve Ethereum Fiyatını anlık olarak gösterir.
+#### Bitcoin ve Ethereum Fiyatını anlık olarak gösterir.
